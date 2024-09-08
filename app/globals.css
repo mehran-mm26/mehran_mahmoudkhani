@@ -19,3 +19,10 @@
 body {
   color: rgb(var(--foreground-rgb));
 }
+
+@media only screen and (max-width: 650px) {
+  .container {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+}
