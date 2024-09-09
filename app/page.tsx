@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import React, { Fragment } from 'react';
 import Navigation from '../components/navigation';
 import SectionHeader from '@/components/section-header';
 import Hero from '@/components/home/hero';
