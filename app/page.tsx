@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import mehranImage from '@/public/mehran.png'
 import React, { Fragment, ReactElement } from 'react';
 
 export default function Home() {
@@ -149,7 +150,7 @@ export default function Home() {
             <div className='flex justify-center items-center'>
               <Image
                 alt='Mehran Mahmoudkhani'
-                src='/mehran.png'
+                src={mehranImage}
                 width={200}
                 height={200}
                 priority
