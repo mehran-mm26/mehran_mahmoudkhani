@@ -1,9 +1,22 @@
-work experience
+-work experience
 https://blend-template.webflow.io/projects/e-commerce-website  
 
 
-main page
 
+-main page
+https://chrisdermody.com/
 https://simplefoliotemplates.webflow.io/home-pages/home-v1 
 https://anton-template.webflow.io/
 https://simplefoliotemplates.webflow.io/company-pages/about
+
+
+
+
+
+-use 3d avatar for favicon
+-animated svg for scroll down 
+https://www.rammaheshwari.com/
+
+
+-animation and slider for portfolio section 
+https://vanholtz.co/work/studiomega/
