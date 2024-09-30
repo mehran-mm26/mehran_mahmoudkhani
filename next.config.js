@@ -15,8 +15,8 @@ const nextConfig = {
   images: {
     unoptimized: true, // If using Next.js images, this is needed for static export
   },
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/portfolio/' : '',
-  basePath: process.env.NODE_ENV === 'production' ? '/portfolio/' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/portfolio' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/portfolio' : '',
 };
 
 module.exports = nextConfig;
